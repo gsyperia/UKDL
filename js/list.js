@@ -56,7 +56,7 @@
       author: "Jasker [Coakmuffer]",
       id: 81835814,
       percentToQualify: 100,
-      verificationVid: "https://youtu.be/DLzxrzFCyOs?si=wwoSRoEZh16Q2NUp",
+      verificationVid: "https://youtube.com/watch?v=DLzxrzFCyOs?si=wwoSRoEZh16Q2NUp",
     },
         /*=============================================================================*/
     {
