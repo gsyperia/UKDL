@@ -52,7 +52,7 @@
           hz: "240hz",
         },
       ],
-      name: "Shitty SADOMASOCHISM",
+      name: "super yes level",
       author: "Jasker [Coakmuffer]",
       id: 81835814,
       percentToQualify: 100,
