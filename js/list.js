@@ -20,6 +20,15 @@
       percentToQualify: 100,
       verificationVid: "https://www.youtube.com/watch?v=MHjIItJmB7M",
     },
+       {
+      vids: [
+      ],
+      name: "GLITTERBOUND",
+      author: "NINCOMPOOPPPY [NINCOMPOOPPPY]",
+      id: 137202057,
+      percentToQualify: 100,
+      verificationVid: "",
+    },
    {
       vids: [
       ],
