@@ -26,6 +26,15 @@
       percentToQualify: 100,
       verificationVid: "https://www.youtube.com/watch?v=MHjIItJmB7M",
     },
+     {
+      vids: [
+      ],
+      name: "AT THE SPEED OF GD",
+      author: "bikaboypikapika [bikaboypikapika]",
+      id: 143730543,
+      percentToQualify: 100,
+      verificationVid: "https://youtu.be/p7cH_huzWEs",
+    },
        {
       vids: [
        {
@@ -40,15 +49,6 @@
       id: 137202057,
       percentToQualify: 100,
       verificationVid: "",
-    },
-   {
-      vids: [
-      ],
-      name: "AT THE SPEED OF GD",
-      author: "bikaboypikapika [bikaboypikapika]",
-      id: 143730543,
-      percentToQualify: 100,
-      verificationVid: "https://youtu.be/p7cH_huzWEs",
     },
         /*=============================================================================*/
     /*=============================================================================*/
