@@ -1,14 +1,5 @@
  const d = {
   list: [
-   {
-      vids: [
-      ],
-      name: "black hole or smth",
-      author: "bikaboypikapika [gugugaga]",
-      id: 143723641,
-      percentToQualify: 100,
-      verificationVid: "https://medal.tv/games/geometry-dash/clips/n0yyRFrdwn6i9JvEH?invite=cr-MSxleGcsNjYxMzUxNjQ3",
-    },
        
     /*=============================================================================*/
     {
