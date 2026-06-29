@@ -34,6 +34,12 @@
           percent: 100,
           hz: "240hz",
         },
+        {
+          user: "gsyperia",
+          link: "",
+          percent: 100,
+          hz: "240hz",
+        },
       ],
       name: "GLITTERBOUND",
       author: "NINCOMPOOPPPY [NINCOMPOOPPPY]",
