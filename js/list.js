@@ -13,6 +13,12 @@
     /*=============================================================================*/
     {
       vids: [
+          {
+          user: "bikaboypikapika",
+          link: "https://youtu.be/X4kHufWod2E",
+          percent: 100,
+          hz: "240hz",
+        },
       ],
       name: "Creo I",
       author: "gsyperia [gsyperia]",
@@ -22,6 +28,12 @@
     },
        {
       vids: [
+       {
+          user: "bikaboypikapika",
+          link: "https://youtu.be/ys4vUM-TToM",
+          percent: 100,
+          hz: "240hz",
+        },
       ],
       name: "GLITTERBOUND",
       author: "NINCOMPOOPPPY [NINCOMPOOPPPY]",
