@@ -43,6 +43,12 @@
     },
         {
       vids: [
+               {
+          user: "gsyperia",
+          link: "https://www.youtube.com/watch?v=6XNvV0ZZ2a8",
+          percent: 100,
+          hz: "240hz",
+        },
       ],
       name: "scapes",
       author: "bikaboypikapika [bikaboypikapika]",
