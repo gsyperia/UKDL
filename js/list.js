@@ -41,6 +41,17 @@
       percentToQualify: 100,
       verificationVid: "https://youtu.be/p7cH_huzWEs",
     },
+        {
+      vids: [
+      ],
+      name: "scapes",
+      author: "bikaboypikapika [bikaboypikapika]",
+      id: 143868678,
+      percentToQualify: 100,
+      verificationVid: "https://youtu.be/scWvgIr74mQ",
+    },
+   
+   
        {
       vids: [
        {
