@@ -30,7 +30,7 @@
       vids: [
         {
           user: "gsyperia",
-          link: "",
+          link: "https://www.youtube.com/watch?v=7qwKfLvU-Ck",
           percent: 100,
           hz: "240hz",
         },
