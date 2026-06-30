@@ -28,6 +28,12 @@
     },
      {
       vids: [
+        {
+          user: "gsyperia",
+          link: "",
+          percent: 100,
+          hz: "240hz",
+        },
       ],
       name: "AT THE SPEED OF GD",
       author: "bikaboypikapika [bikaboypikapika]",
@@ -45,7 +51,7 @@
         },
         {
           user: "gsyperia",
-          link: "",
+          link: "https://www.youtube.com/watch?v=0HwSJayePTU",
           percent: 100,
           hz: "240hz",
         },
